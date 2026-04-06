@@ -1,13 +1,3 @@
-/**
- * BlackJack.java  3/28/2026
- *
- * @author - Oorja Kumar
- * @author - Period 7
- * @author - Id 932560
- *
- * @author - I received help from ...
- *
-*/
 import java.util.Scanner;
 import java.util.ArrayList;
 public class BlackJack
