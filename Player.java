@@ -1,13 +1,3 @@
-/**
- * Player.java  3/26/2026
- *
- * @author - Oorja Kumar
- * @author - Period 7
- * @author - Id 932560
- *
- * @author - I received help from ...
- *
-*/
 import java.util.ArrayList;
 public class Player
 {
