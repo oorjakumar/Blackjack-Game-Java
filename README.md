@@ -1,5 +1,5 @@
 # Blackjack-Game-Java
-AP Computer Science A project: a Java Blackjack game demonstrating OOP concepts
+a Java Blackjack game demonstrating OOP concepts
 
 ## Project Structure
 - **BlackJack.java** – main class that runs the game, combining all other classes
