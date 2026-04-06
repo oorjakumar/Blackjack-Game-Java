@@ -1,13 +1,3 @@
-/**
- * Card.java  3/36/2026
- *
- * @author - Oorja Kumar
- * @author - Period 7
- * @author - Id 932560
- *
- * @author - I received help from ...
- *
-*/
 public class Card
 {
 	public static final String [] FACES = {"ZERO", "ACE", "TWO", "THREE", "FOUR", "FIVE", "SIX", "SEVEN", "EIGHT", "NINE", "TEN", "JACK", "QUEEN", "KING"};
